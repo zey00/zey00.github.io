@@ -3,7 +3,6 @@
   <head>
     <title>patient experiences on psychedelics</title> 
   </head>
-
   <body> 
     <h1>patient experiences of psychedelics</h1> 
     <p>This is a paragraph.</p>
