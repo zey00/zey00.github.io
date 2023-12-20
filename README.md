@@ -15,7 +15,7 @@
     <a href="https://www.youtube.com/watch?v=UGN2l-XY_EE&ab_channel=RealStories">"here there will be a quote people can click if they want</a>
     <p>The full conversation with Roland Griffiths.</p>
     <audio controls>
-        <source src="/Users/zeyneponder/Desktop/20230514_atc_he_helped_cancer_patients_find_peace_through_psychedelics_then_came_his_diagnosis.mp3" type="audio/mpeg">
+        <source src="20230514_atc_he_helped_cancer_patients_find_peace_through_psychedelics_then_came_his_diagnosis.mp3" type="audio/mpeg">
       </audio>
 </body>
 </html>
