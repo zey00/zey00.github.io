@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html> 
   <head>
     <title>patient experiences on psychedelics</title> 
