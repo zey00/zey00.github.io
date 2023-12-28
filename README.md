@@ -22,14 +22,14 @@
     <a href="https://journals.sagepub.com/doi/10.1177/0022167817706884#bibr5-0022167817706884">clik here for the full story of Dan</a>
     <h2>Patient Experience in a Trial of Psilocybin-Assisted Psychotherapy for Alcohol Use Disorder</h2>
     <h3>Mark</h3>
-    <p>Mark was a Caucasian male in his 20s living with his parents and working full-time at the time of enrollment. His binge drinking began in his teens and intensified into adulthood. He reported frequent blackouts and occasional absences from work due to drinking episodes that lasted for days at a time. At baseline, he reported drinking on six of the past 84 days, with an average of 22 drinks per drinking day. Mark had made multiple unsuccessful attempts at treatment, and had attended hundreds of AA meetings. Mark started the study with the intention of attaining complete abstinence from alcohol.</p>
-    <c>"I just want to stop and have a normal life."</blockquote>	
+    <p>Mark was a Caucasian male in his 20s living with his parents and working full-time at the time of enrollment. His binge drinking began in his teens and intensified into adulthood. He had frequent blackouts and occasional absences from work due to drinking episodes that lasted for days at a time. At baseline, he drank on six of the past 84 days, with an average of 22 drinks per drinking day. He had made multiple unsuccessful attempts at treatment and had attended hundreds of AA meetings.</p>
+    <blockquote>"I just want to stop and have a normal life."</blockquote>	
     <p>During the first medication session, Mark encountered his anxiety and fears associated with failure. Though the effects were mild and difficult for him to communicate in words</p>
     <blockquote>“It was almost like finding the Holy Grail and the answer to all of life’s questions.”</blockquote>
     <p>Mark’s second medication session was higher in both dose and intensity. He was confronted by the harmful effects that his drinking had on himself and others.</p>
     <blockquote>He stated that “at one point, I felt I could have cried for joy,” when realizing that he was being given “a new slate.”</blockquote>
     <p>Mark remained abstinent during the 7 months following the second medication session</p>
-    <blockquote>“I wouldn’t be surprised if I never drank again,I got exactly what I need out of the experience.”</blockquote>
+    <blockquote>“I wouldn’t be surprised if I never drank again I got exactly what I need out of the experience.”</blockquote>
     <p>One month after this session, he remained abstinent and expressed a great deal of gratitude. Two years from his initial intake, Mark contacted to report that he continued to remain abstinent.</p>
     <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5826237/">clik here for the full story of Mark</a>
     <h3>Rob</h3>
