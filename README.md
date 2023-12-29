@@ -5,6 +5,8 @@
   <body> 
     <h1>Patient Experiences of Psychedelics</h1> 
     <p>""</p>
+    <h2>Welcome!</h2>
+    <p>REFINE THIS PART : Psilocybin has been being used for sometime as an alternative for several conditions as anxiety, alcohol disorders. Here are some examples bla bla </p>
     <a href="https://www.youtube.com/watch?v=UGN2l-XY_EE&ab_channel=RealStories">"here there will be a quote people can click if they want</a>
     <h2> Relationships With Loved Ones After Psilocybin-Assisted Psychotherapy</h2>
     <h3>Mike</h3>
