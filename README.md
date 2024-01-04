@@ -3,16 +3,16 @@
     <title>patient experiences on psychedelics</title> 
   </head>
   <body> 
-    <h1>Patient Experiences of Psychedelics</h1> 
+    <h1>The Scientists And The Media Are Heard But What About The Patients?</h1> 
     <h2>Welcome!</h2>
-    <p>REFINE THIS PART : Psilocybin has been being used for some time as an alternative for several conditions such as anxiety, clinical depression, and alcohol disorders. When talking about medical issues it's very easy for the patients to be reduced to just a statistic, often caused by a lack of listening to individual experiences. In this part of the exhibition, you will get to listen to the patient's individual experiences of several psilocybin-assisted psychotherapy studies. These experiences are unique... </p>
+    <p>REFINE THIS PART : When talking about medical issues it's very easy for the patients to be reduced to just a statistic, often caused by a lack of listening to individual experiences. In this part of the exhibition, you will get to listen to the patient's individual experiences of several psilocybin-assisted psychotherapy studies. The trials are conducted among people with different backgrounds in both their medical and life history, allowing for each of the voices and experiences to be unique.</p>
     <p> </p>
     
     <h2>Experiences of Clinical Depression Patients in a Trial of Psilocybin-Assisted Psychotherapy</h2>
     <a href="https://www.youtube.com/watch?v=UGN2l-XY_EE&ab_channel=RealStories">"here there will be a quote people can click if they want</a>
 
     
-    <h2>Experiences of Alcohol Use Disorder in a Trial of Psilocybin-Assisted Psychotherapy</h2>
+    <h2>Experiences of Alcohol Use Disorder Patients in a Trial of Psilocybin-Assisted Psychotherapy</h2>
     <h3>Mark</h3>
     <p>Mark was a Caucasian male in his 20s living with his parents and working full-time at the time of enrollment. His binge drinking began in his teens and intensified into adulthood. He had frequent blackouts and occasional absences from work due to drinking episodes that lasted for days at a time. At baseline, he drank on six of the past 84 days, with an average of 22 drinks per drinking day. He had made multiple unsuccessful attempts at treatment and had attended hundreds of AA meetings.</p>
     <blockquote>"I just want to stop and have a normal life."</blockquote>	
