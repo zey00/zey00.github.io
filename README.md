@@ -4,25 +4,15 @@
   </head>
   <body> 
     <h1>Patient Experiences of Psychedelics</h1> 
-    <p>""</p>
     <h2>Welcome!</h2>
-    <p>REFINE THIS PART : Psilocybin has been being used for sometime as an alternative for several conditions as anxiety, alcohol disorders. Here are some examples bla bla </p>
+    <p>REFINE THIS PART : Psilocybin has been being used for some time as an alternative for several conditions such as anxiety, clinical depression, and alcohol disorders. When talking about medical issues it's very easy for the patients to be reduced to just a statistic, often caused by a lack of listening to individual experiences. In this part of the exhibition, you will get to listen to the patient's individual experiences of several psilocybin-assisted psychotherapy studies. These experiences are unique... </p>
+    <p> </p>
+    
+    <h2>Experiences of Clinical Depression Patients in a Trial of Psilocybin-Assisted Psychotherapy</h2>
     <a href="https://www.youtube.com/watch?v=UGN2l-XY_EE&ab_channel=RealStories">"here there will be a quote people can click if they want</a>
-    <h2> Relationships With Loved Ones After Psilocybin-Assisted Psychotherapy</h2>
-    <h3>Mike</h3>
-    <p>Mike is a father of three daughters...</p>
-    <blockquote>"Bit by bit, my daughters were turning into these radiant beings, cleansed of all these fears. It was incredibly emotional, because it was something I have, as their father, long known, but it’s a very great pain when you see your children being victimized by fears . . . to see these beautiful beings not realizing their essence"</blockquote>
-    <a href="https://journals.sagepub.com/doi/10.1177/0022167817706884#bibr5-0022167817706884">clik here for the full story of Mike</a>
-    <h3> Anonymous patient</h3>
-    <blockquote>"I felt like I let go of a lot of anger and resentment towards my parents. I mean, I thought I had already done that, but I really hadn’t, and I kind of saw them more as, like, these flawed human beings who did the best they could.
-".</blockquote>
-    <a href="https://journals.sagepub.com/doi/10.1177/0022167817706884#bibr5-0022167817706884">clik here for the full story</a>
-    <h3>Dan</h3>
-    <p>Dan is a former bank employee and real-estate investor...</p>
-    <blockquote>"I was appreciating the pureness of her (my girlfriend), if you will, her being, in a way. In a way, I had not allowed myself, or not realized, or whatever the case was. And so that was pretty much immediate, but I felt like that had a lasting effect. I feel that kind of changed my perception of our relationship over the ensuing weeks in a way. It allowed me to be more open with her, express my appreciation a lot for her in way that I had not. I think it had a positive effect—kind of a bit of a snowball effect."</blockquote>
-    <p>Dan reflected that the state of mind into which he entered helped him become “more emotionally open” to his girlfriend. Within 3 months, Dan bought an engagement ring and proposed marriage to her.</p>
-    <a href="https://journals.sagepub.com/doi/10.1177/0022167817706884#bibr5-0022167817706884">clik here for the full story of Dan</a>
-    <h2>Patient Experience in a Trial of Psilocybin-Assisted Psychotherapy for Alcohol Use Disorder</h2>
+
+    
+    <h2>Experiences of Alcohol Use Disorder in a Trial of Psilocybin-Assisted Psychotherapy</h2>
     <h3>Mark</h3>
     <p>Mark was a Caucasian male in his 20s living with his parents and working full-time at the time of enrollment. His binge drinking began in his teens and intensified into adulthood. He had frequent blackouts and occasional absences from work due to drinking episodes that lasted for days at a time. At baseline, he drank on six of the past 84 days, with an average of 22 drinks per drinking day. He had made multiple unsuccessful attempts at treatment and had attended hundreds of AA meetings.</p>
     <blockquote>"I just want to stop and have a normal life."</blockquote>	
@@ -47,7 +37,28 @@
     <p>Before her third dosing session, she reported a dramatic and sustained increase in her anxiety, which she attributed to the results of the recent presidential election. She reported that the positive effects from the two previous sessions had persisted, and that alcohol was no longer problematic. She described being able to consume an occasional glass of wine while remaining free from the compulsion to overindulge. The only instance of drinking to excess was on one isolated occasion, which was the night of the election. Her intention for the third session was to find relief from her apprehension regarding the election outcome. She described the medication experience as consisting of several hours of pure and intense anxiety, with very little specific thought or perceptual content. The following day she reported that her anxiety had lifted and that she was feeling calm and peaceful. At 54 weeks, Lisa reported a persisting reduction in alcohol consumption and alleviated anxiety.</p>
     <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5826237/">clik here for the full story of Lisa and many more</a>
     <p> </p> 
-    <h2>He helped cancer patients find peace through psychedelics. Then came his diagnosis</h2>
+
+    <h2> Relationships With Loved Ones After Psilocybin-Assisted Psychotherapy</h2>
+    <p>The treatment journey of a patient is related to the physiological self-recovery as well as the process of healing the relationships with the social environment. Both the patients and the families of patients describe remarkable insights or transformations involving a significant personal relationship.</p>
+    <h3>Mike</h3>
+    <p>Mike a father of three daughters who struggled with anxiety</p>
+    <blockquote>"Bit by bit, my daughters were turning into these radiant beings, cleansed of all these fears. It was incredibly emotional, because it was something I have, as their father, long known, but it’s a very great pain when you see your children being victimized by fears . . . to see these beautiful beings not realizing their essence"</blockquote>
+    <a href="https://journals.sagepub.com/doi/10.1177/0022167817706884#bibr5-0022167817706884">clik here for the full story of Mike</a>
+    <h3> Anonymous patient</h3>
+    <blockquote>"I felt like I let go of a lot of anger and resentment towards my parents. I mean, I thought I had already done that, but I really hadn’t, and I kind of saw them more as, like, these flawed human beings who did the best they could.
+".</blockquote>
+    <a href="https://journals.sagepub.com/doi/10.1177/0022167817706884#bibr5-0022167817706884">clik here for the full story</a>
+    <h3>Dan</h3>
+    <p>Dan is a former bank employee and real-estate investor...</p>
+    <blockquote>"I was appreciating the pureness of her (my girlfriend), if you will, her being, in a way. In a way, I had not allowed myself, or not realized, or whatever the case was. And so that was pretty much immediate, but I felt like that had a lasting effect. I feel that kind of changed my perception of our relationship over the ensuing weeks in a way. It allowed me to be more open with her, express my appreciation a lot for her in way that I had not. I think it had a positive effect—kind of a bit of a snowball effect."</blockquote>
+    <p>Dan reflected that the state of mind into which he entered helped him become “more emotionally open” to his girlfriend. Within 3 months, Dan bought an engagement ring and proposed marriage to her.</p>
+    <a href="https://journals.sagepub.com/doi/10.1177/0022167817706884#bibr5-0022167817706884">clik here for the full story of Dan and many more</a>
+    <p> </p>
+    
+    <h2> Experiencing Psilocybin as a scientist and patient: The story of Dr. Roland Griffiths</h2>
+    <p> He helped cancer patients find peace through psychedelics. Then came his diagnosis</p>
+    <p>As the founding director of the Johns Hopkins Center for Psychedelic and Consciousness Research, Dr. Roland Griffiths has been a pioneer in investigating the ways in which psychedelics can help treat depression, addiction and, in patients with a life-threatening cancer diagnosis, psychological distress. He has also looked at how the use of psychedelics can produce transformative and long-lasting feelings of human interconnectedness and unity.</p> 
+    <p>Griffiths, who was 76, has been diagnosed with Stage 4 metastatic colon cancer. It’s a diagnosis, in all likelihood terminal</p>
     <p>The full conversation with Roland Griffiths.</p>
     <audio controls>
         <source src="20230514_atc_he_helped_cancer_patients_find_peace_through_psychedelics_then_came_his_diagnosis.mp3" type="audio/mpeg">
