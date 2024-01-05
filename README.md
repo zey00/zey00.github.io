@@ -10,7 +10,7 @@
     
     <h2>Experiences of Clinical Depression Patients in a Trial of Psilocybin-Assisted Psychotherapy</h2>
     <a href="https://www.youtube.com/watch?v=UGN2l-XY_EE&ab_channel=RealStories">"here there will be a quote people can click if they want</a>
-
+    <a href="https://youtu.be/UGN2l-XY_EE?si=JcqzTHXshtMZJDf_?start=100&end=105">click pls </a>
     
     <h2>Experiences of Alcohol Use Disorder Patients in a Trial of Psilocybin-Assisted Psychotherapy</h2>
     <h3>Mark</h3>
