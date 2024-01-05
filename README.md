@@ -10,7 +10,7 @@
     
     <h2>Experiences of Clinical Depression Patients in a Trial of Psilocybin-Assisted Psychotherapy</h2>
     <p>John</p>
-    <a href="https://www.youtube.com/embed/UGN2l-XY_EE?si=5_5I-zh5jpm2tgQa?start=425&end=445"> For me this (trial) is the last chance... I've tried all these (medicines) that were made in a lab and none have worked. They all had very short-term impact and did nothing </a>
+    <a href="https://www.youtube.com/embed/UGN2l-XY_EE?start=425&end=445"> Ffor me this (trial) is the last chance... I've tried all these (medicines) that were made in a lab and none have worked. They all had very short-term impact and did nothing </a>
     
     <h2>Experiences of Alcohol Use Disorder Patients in a Trial of Psilocybin-Assisted Psychotherapy</h2>
     <h3>Mark</h3>
