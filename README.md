@@ -5,22 +5,27 @@
   <body> 
     <h1>The Scientists And The Media Are Heard But What About The Patients?</h1> 
     <h2>Welcome!</h2>
-    <p>REFINE THIS PART : When talking about medical issues it's very easy for the patients to be reduced to just a statistic, often caused by a lack of listening to individual experiences. In this part of the exhibition, you will get to listen to the patient's individual experiences of several psilocybin-assisted psychotherapy studies. The trials are conducted among people with different backgrounds in both their medical and life history, allowing for each of the voices and experiences to be unique.</p>
+    <p>When talking about medical issues most of the time patients are simply regarded as just a number just a statistic, the individual voices and experiences are often disregarded. In this part of the exhibition, you will get to listen and read the first-hand experiences of several patients who took part in different psilocybin-assisted psychotherapy studies. The treatment trials are conducted among people with different backgrounds in both their medical and life history, allowing for each of the voices and experiences on psilocybin to be unique.</p>
     <p> </p>
     
     <h2>Experiences of Clinical Depression Patients in a Trial of Psilocybin-Assisted Psychotherapy</h2>
     <h3>John</h3>
-    <a href="https://youtu.be/UGN2l-XY_EE?start=425"> For me this (trial) is the last chance... I've tried all these (medicines) that were made in a lab and none have worked. They all had a very short-term impact and did nothing. </a>
+    <p>John has been diagnosed with clinical depression 30 years ago. Since the conventional treatments didn't fully work he chose to be a part of the psilocybin-assisted psychotherapy trial </p> 
+    <a href="https://youtu.be/UGN2l-XY_EE?start=425"> "For me this (trial) is the last chance... I've tried all these (medicines) that were made in a lab and none have worked. They all had a very short-term impact and did nothing." </a>
+    <p> </p>
     <p>John's wife on the first day of the trial</p> 
-    <a href="https://youtu.be/UGN2l-XY_EE?start=1001"> This is a big day, probably as big a day as big as our wedding day.</a>
+    <a href="https://youtu.be/UGN2l-XY_EE?start=1001"> "This is a big day, probably as big a day as big as our wedding day."</a>
     <p>John's thoughts on the first day of trial</p> 
-    <a href="https://youtu.be/UGN2l-XY_EE?start=1066"> It's not like I'm feeling euphoria or high or happiness, I just don't feel rubbish and so if this is all it does and that's fine but hopefully it'll do more.</a>
+    <a href="https://youtu.be/UGN2l-XY_EE?start=1066"> "It's not like I'm feeling euphoria or high or happiness, I just don't feel rubbish and so if this is all it does and that's fine but hopefully it'll do more."</a>
+    <p> </p>
     <p>John's reflections after the second day of the trial</p> 
-    <a href="https://youtu.be/UGN2l-XY_EE?start=2293"> It makes me feel that depression is a a way we cope. As a kid we build up psychological protections for ourselves around about these events. But at some point in your adult life, we have to come to terms with that and deal with that and there is no natural part of life that we have in modern society that allows that to happen. Counseling doesn't do it, antidepressants won't do it but this thing (psilocybin) does that. Whatever the problem is, it takes you there. </a>
+    <a href="https://youtu.be/UGN2l-XY_EE?start=2293"> "It makes me feel that depression is a a way we cope. As a kid we build up psychological protections for ourselves around about these events. But at some point in your adult life, we have to come to terms with that and deal with that and there is no natural part of life that we have in modern society that allows that to happen. Counseling doesn't do it, antidepressants won't do it but this thing (psilocybin) does that. Whatever the problem is, it takes you there."</a>
+    <p> </p>
     <p>Even though John had some breakthroughs during the sessions, after 7 months the effect has washed away</p> 
     <h3> Andrew </h3>
     <p>Andew talks about his reflections on the experience 2 years after the trial. He states that the trail helped him view his traumatic experience in his past with a new pair of eyes.</p>
-    <a href="https://youtu.be/UGN2l-XY_EE?start=3659"> That though loop has gone... It has been pretty life changing. I really really appreciate it. </a>
+    <a href="https://youtu.be/UGN2l-XY_EE?start=3659"> "That though loop has gone... It has been pretty life changing. I really really appreciate it." </a>
+    <p> </p>
 
     <h2>Experiences of Alcohol Use Disorder Patients in a Trial of Psilocybin-Assisted Psychotherapy</h2>
     <h3>Mark</h3>
@@ -64,15 +69,6 @@
     <p>Dan reflected that the state of mind into which he entered helped him become “more emotionally open” to his girlfriend. Within 3 months, Dan bought an engagement ring and proposed marriage to her.</p>
     <a href="https://journals.sagepub.com/doi/10.1177/0022167817706884#bibr5-0022167817706884">access to the full story of Dan and many more</a>
     <p> </p>
-    
-    <h2> Experiencing Psilocybin as a scientist and patient: The story of Dr. Roland Griffiths</h2>
-    <p> He helped cancer patients find peace through psychedelics. Then came his diagnosis</p>
-    <p>As the founding director of the Johns Hopkins Center for Psychedelic and Consciousness Research, Dr. Roland Griffiths has been a pioneer in investigating the ways in which psychedelics can help treat depression, addiction and, in patients with a life-threatening cancer diagnosis, psychological distress. He has also looked at how the use of psychedelics can produce transformative and long-lasting feelings of human interconnectedness and unity.</p> 
-    <p>Griffiths, who was 76, has been diagnosed with Stage 4 metastatic colon cancer. It’s a diagnosis, in all likelihood terminal</p>
-    <p>The full conversation with Roland Griffiths.</p>
-    <audio controls>
-        <source src="20230514_atc_he_helped_cancer_patients_find_peace_through_psychedelics_then_came_his_diagnosis.mp3" type="audio/mpeg">
-      </audio>
 </body>
 </html>
 
