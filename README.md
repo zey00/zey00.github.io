@@ -10,6 +10,7 @@
     
     <h2>Experiences of Clinical Depression Patients in a Trial of Psilocybin-Assisted Psychotherapy</h2>
     <a href="https://www.youtube.com/watch?v=UGN2l-XY_EE&ab_channel=RealStories">"here there will be a quote people can click if they want</a>
+    <p> </p>
     <a href="https://www.youtube.com/watch?v=UGN2l-XY_EE&ab_channel=RealStories?start=100&end=105">click plsss </a>
     
     <h2>Experiences of Alcohol Use Disorder Patients in a Trial of Psilocybin-Assisted Psychotherapy</h2>
@@ -23,7 +24,7 @@
     <p>Mark remained abstinent during the 7 months following the second medication session</p>
     <blockquote>“I wouldn’t be surprised if I never drank again I got exactly what I need out of the experience.”</blockquote>
     <p>One month after this session, he remained abstinent and expressed a great deal of gratitude. Two years from his initial intake, Mark contacted to report that he continued to remain abstinent.</p>
-    <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5826237/">clik here for the full story of Mark</a>
+    <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5826237/">access to the full story of Mark</a>
     <p> </p> 
     <h3>Lisa</h3>
     <p>Lisa was a Latin-American female in her 50s with a family history of alcoholism, physical and emotional abuse, abandonment, and neglect. Her problematic drinking began around the age of thirty and resulted in social isolation, hangovers, strong feelings of guilt and shame, and severe self-critical thoughts. At the start, she expressed concern regarding the effects that drinking was having on her physical and mental health. Lisa had made multiple previous attempts at treatment and attended a total of 29 AA meetings. She had been drinking on 20 out of the previous 84 days, averaging three drinks per drinking day.</p>
@@ -35,7 +36,7 @@
     <p>Following her medication session, Lisa reported that her self-critical thoughts had dissolved and that alcohol had lost almost all of its appeal. She said that the medication sessions had illuminated how she had been unkind to her body and had been harming herself with alcohol. She noted her ability to manage stress and found that she was making time to care for herself through socialization, relaxation, and a resumed meditation practice. She reported improved concentration, a lack of negative self-talk, decreased anxiety, and a spacious quality of mind</p>
     <blockquote> “The noise can bubble up but it doesn’t overwhelm me. When these little anxieties walk in this big room they seem so little. I feel peaceful, and I feel safe. It feels good to be in my body. I’ve found myself taking wonderful breaths. The negative remarks don’t even pop into my head.”</blockquote>
     <p>Before her third dosing session, she reported a dramatic and sustained increase in her anxiety, which she attributed to the results of the recent presidential election. She reported that the positive effects from the two previous sessions had persisted, and that alcohol was no longer problematic. She described being able to consume an occasional glass of wine while remaining free from the compulsion to overindulge. The only instance of drinking to excess was on one isolated occasion, which was the night of the election. Her intention for the third session was to find relief from her apprehension regarding the election outcome. She described the medication experience as consisting of several hours of pure and intense anxiety, with very little specific thought or perceptual content. The following day she reported that her anxiety had lifted and that she was feeling calm and peaceful. At 54 weeks, Lisa reported a persisting reduction in alcohol consumption and alleviated anxiety.</p>
-    <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5826237/">clik here for the full story of Lisa and many more</a>
+    <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5826237/">access to the full story of Lisa and many more</a>
     <p> </p> 
 
     <h2> Relationships With Loved Ones After Psilocybin-Assisted Psychotherapy</h2>
@@ -43,16 +44,16 @@
     <h3>Mike</h3>
     <p>Mike a father of three daughters who struggled with anxiety</p>
     <blockquote>"Bit by bit, my daughters were turning into these radiant beings, cleansed of all these fears. It was incredibly emotional, because it was something I have, as their father, long known, but it’s a very great pain when you see your children being victimized by fears . . . to see these beautiful beings not realizing their essence"</blockquote>
-    <a href="https://journals.sagepub.com/doi/10.1177/0022167817706884#bibr5-0022167817706884">clik here for the full story of Mike</a>
+    <a href="https://journals.sagepub.com/doi/10.1177/0022167817706884#bibr5-0022167817706884">access to the full story of Mike</a>
     <h3> Anonymous patient</h3>
     <blockquote>"I felt like I let go of a lot of anger and resentment towards my parents. I mean, I thought I had already done that, but I really hadn’t, and I kind of saw them more as, like, these flawed human beings who did the best they could.
 ".</blockquote>
-    <a href="https://journals.sagepub.com/doi/10.1177/0022167817706884#bibr5-0022167817706884">clik here for the full story</a>
+    <a href="https://journals.sagepub.com/doi/10.1177/0022167817706884#bibr5-0022167817706884">access to the full story</a>
     <h3>Dan</h3>
     <p>Dan is a former bank employee and real-estate investor...</p>
     <blockquote>"I was appreciating the pureness of her (my girlfriend), if you will, her being, in a way. In a way, I had not allowed myself, or not realized, or whatever the case was. And so that was pretty much immediate, but I felt like that had a lasting effect. I feel that kind of changed my perception of our relationship over the ensuing weeks in a way. It allowed me to be more open with her, express my appreciation a lot for her in way that I had not. I think it had a positive effect—kind of a bit of a snowball effect."</blockquote>
     <p>Dan reflected that the state of mind into which he entered helped him become “more emotionally open” to his girlfriend. Within 3 months, Dan bought an engagement ring and proposed marriage to her.</p>
-    <a href="https://journals.sagepub.com/doi/10.1177/0022167817706884#bibr5-0022167817706884">clik here for the full story of Dan and many more</a>
+    <a href="https://journals.sagepub.com/doi/10.1177/0022167817706884#bibr5-0022167817706884">access to the full story of Dan and many more</a>
     <p> </p>
     
     <h2> Experiencing Psilocybin as a scientist and patient: The story of Dr. Roland Griffiths</h2>
