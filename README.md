@@ -9,9 +9,19 @@
     <p> </p>
     
     <h2>Experiences of Clinical Depression Patients in a Trial of Psilocybin-Assisted Psychotherapy</h2>
-    <p>John</p>
-    <a href="https://youtu.be/UGN2l-XY_EE?start=100&end=106"> for me this (trial) is the last chance... I've tried all these (medicines) that were made in a lab and none have worked. They all had very short-term impact and did nothing </a>
-    
+    <h3>John</h3>
+    <a href="https://youtu.be/UGN2l-XY_EE?start=425"> For me this (trial) is the last chance... I've tried all these (medicines) that were made in a lab and none have worked. They all had a very short-term impact and did nothing. </a>
+    <p John's wife on the first day of the trial> 
+    <a href="https://youtu.be/UGN2l-XY_EE?start=1001"> This is a big day, probably as big a day as big as our wedding day.</a>
+    <p John's thoughts on the first day of trial>
+    <a href="https://youtu.be/UGN2l-XY_EE?start=1066"> It's not like I'm feeling euphoria or high or happiness, I just don't feel rubbish and so if this is all it does and that's fine but hopefully it'll do more.</a>
+    <p John's reflections after the second day of the trial>
+    <a href="https://youtu.be/UGN2l-XY_EE?start=2293"> It makes me feel that depression is a a way we cope. As a kid we build up psychological protections for ourselves around about these events. But at some point in your adult life, we have to come to terms with that and deal with that and there is no natural part of life that we have in modern society that allows that to happen. Counseling doesn't do it, antidepressants won't do it but this thing (psilocybin) does that. Whatever the problem is, it takes you there. </a>
+    <p Even though John had some breakthroughs during the sessions, after 7 months the effect has washed away>
+    <h3> Andrew </h3>
+    <p> Andew talks about his reflections on the experience 2 years after the trial. He states that the trail helped him view his traumatic experience in his past with a new pair of eyes. </p>
+    <a href="https://youtu.be/UGN2l-XY_EE?start=3659"> That though loop has gone... It has been pretty life changing. I really really appreciate it. </a>
+
     <h2>Experiences of Alcohol Use Disorder Patients in a Trial of Psilocybin-Assisted Psychotherapy</h2>
     <h3>Mark</h3>
     <p>Mark was a Caucasian male in his 20s living with his parents and working full-time at the time of enrollment. His binge drinking began in his teens and intensified into adulthood. He had frequent blackouts and occasional absences from work due to drinking episodes that lasted for days at a time. At baseline, he drank on six of the past 84 days, with an average of 22 drinks per drinking day. He had made multiple unsuccessful attempts at treatment and had attended hundreds of AA meetings.</p>
